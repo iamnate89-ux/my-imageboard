@@ -22,7 +22,7 @@ Improvements I can make (possible upcoming features)
 - Add rotating banners
 - Create more boards for diverse topics
 - Add specific rules for different boards
-- Make and configure the catalog page
+- Make and configure the catalog page (FIXED)
 - Add custom themes the user can select
 - Add CAPTCHA verification
 
@@ -31,4 +31,3 @@ Challenges / errors I faced
 - Installing vichan (fixed issues with creating the root file, vendor folder in the terminal)
 - Adding a logo (fixed with finding the index.php file in the terminal)
 - Setting up rotating banners (still in progress)
-- Configuring the catalog page of a board and making it visible (still in progress)
