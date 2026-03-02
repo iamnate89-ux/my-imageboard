@@ -19,10 +19,10 @@ What I have learned
 -  How to create a local server to run a website
 
 Improvements I can make (possible upcoming features)
-- Add rotating banners
+- Add rotating banners (DONE)
 - Create more boards for diverse topics
-- Add specific rules for different boards
-- Make and configure the catalog page (FIXED)
+- Add specific rules for different boards (rules are implied by the name of board)
+- Make and configure the catalog page (DONE)
 - Add custom themes the user can select
 - Add CAPTCHA verification
 
@@ -30,4 +30,4 @@ Challenges / errors I faced
 - Setting up the local server (had to create an Ubuntu virtual machine since Windows did not work)
 - Installing vichan (fixed issues with creating the root file, vendor folder in the terminal)
 - Adding a logo (fixed with finding the index.php file in the terminal)
-- Setting up rotating banners (still in progress)
+- Setting up rotating banners (fixed by correcting the permissions of static/banners)
