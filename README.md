@@ -1,4 +1,4 @@
-# my-imageboard
+# my-imageboard (OUTDATED! REBUILDING FROM SCRATCH)
 This is a custom imageboard I created using Vichan running on an Ubuntu virtual machine.
 
  Features
